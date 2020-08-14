@@ -1,6 +1,8 @@
 # Football Analytics Skills
 This is my repository for some of the technical skills which I find useful for Football (Soccer) Analytics. This is e.g. extracting data, building models and visualising our results.
 
+This inspired by Devin Pleuler Soccer Analytics Handbook (https://github.com/devinpleuler/analytics-handbook)
+
 ## Content
 - `1_DataExtraction.ipynb` is a data extraction and preperation of different events (shots, passes, etc.) from the StatsBomb free data (https://github.com/statsbomb/open-data)
 - `2_LinearRegression.ipynb` we build a basic LinearRegression model and look at how __Pass Completion%__ correlates with __number of passes__. Moreover we discovers that __carries__ and __meters passed the ball__ have a positive linear relationship.
