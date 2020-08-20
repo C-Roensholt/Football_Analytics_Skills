@@ -8,6 +8,9 @@ Bekskriv hvordan man laver en model, bl.a. features og labels. Nogle modeller ha
 StatsBomb har for mylig lavet deres model om så den nu også tager boldens højde i betragtning i skudet.
 Deres model tager også målmandens placering i betragtning, som man ellers tænker var givet for en xG model. Men det er altså kun for nyligt har været muligt at implementere i xG modellerne.
 
+
+
+
 Kort om forskellige modeller, logistic regression, gradient boost. 
 
 
